@@ -1,6 +1,9 @@
 
 import java.util.Scanner;
 
+/**
+ * TAG my_tag
+ */
 public class SomeClass {
 
   public static void someMethod() {
